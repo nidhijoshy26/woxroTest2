@@ -1,0 +1,37 @@
+.drctor-name{
+    width: 40rem;
+    height: 2rem;
+    margin-right: 10px;
+}
+.mv-name{
+    width: 40rem;
+    height: 2rem;
+}
+.add-btn{
+    background-color: rgb(69, 205, 69);
+    color: white;
+    width: 5%;
+    height: 2.3rem;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.rmv-btn{
+    background-color: red;
+    color: white;
+    width: 5%;
+    height: 2.3rem;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    display: flex;
+    margin-top: -2rem;
+    margin-left: 18rem;
+    padding: 10px;
+}
+.inpt1{
+        margin-left: -77rem;
+}
+.inpt2{
+    margin-left: 10rem;
+}
